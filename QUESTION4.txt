@@ -1,0 +1,2 @@
+USE Sakila;
+SELECT * FROM actor WHERE actor_id %10=0;
