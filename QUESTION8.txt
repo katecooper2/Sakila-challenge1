@@ -1,0 +1,2 @@
+USE Sakila;
+SELECT length, title FROM film ORDER BY length ASC LIMIT 10;
