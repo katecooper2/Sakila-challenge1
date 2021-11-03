@@ -1,0 +1,3 @@
+USE Sakila;
+SELECT * FROM staff;
+SELECT DISTINCT first_name, last_name FROM staff WHERE staff_id="2";
