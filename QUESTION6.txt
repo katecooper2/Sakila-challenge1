@@ -1,0 +1,2 @@
+USE Sakila;
+SELECT * FROM film WHERE rating="R";
